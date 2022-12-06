@@ -1,6 +1,6 @@
 import React from "react";
 
-class ConfirmButton extends React["component"] {
+class ConfirmButton extends React.Component {
   constructor(props) {
     super(props);
 
